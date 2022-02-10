@@ -14,7 +14,7 @@
     "fibers": "^4.0.2",
     "material-design-icons-iconfont": "^5.0.1",
     "moment": "^2.24.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "noty": "^3.2.0-beta",
     "toastr": "^2.1.4",
     "vue": "^2.6.10",
